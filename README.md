@@ -16,7 +16,7 @@ I'm passionate about building clean, user-centred interfaces and currently worki
 
 | Project | Description | Tech | Live |
 |---|---|---|---|
-| 🌍 [Jahan](https://github.com/Mahreen-Majid/jahan-travel-website) | Multi-page virtual travel website with 3D carousel, flip cards, and festival pages | HTML · CSS · JS | [Live Demo](https://mahreen-majid.github.io/jahan-travel-website) |
+| 🌍 [Jahan](https://github.com/Mahreen-Majid/jahaan-travel-website) | Multi-page virtual travel website with 3D carousel, flip cards, and festival pages | HTML · CSS · JS | [Live Demo](https://mahreen-majid.github.io/jahaan-travel-website) |
 | 🏥 Hayaat | AI-powered desktop healthcare system — Patient Module | TypeScript · Node.js | In Progress |
 
 ---
